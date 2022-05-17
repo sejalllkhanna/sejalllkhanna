@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sejal Khanna</h1>
-<h3 align="center">A final year undergraduate in Computer Science.I am an iOS Application Develope at OneBanc Technologies!</h3>
+<h3 align="center">A final year undergraduate in Computer Science.I am an iOS Application Developer at OneBanc Technologies!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalllkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="sejalllkhanna" /> </p>
 
