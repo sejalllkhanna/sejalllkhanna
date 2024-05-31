@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sejal Khanna</h1>
-<h3 align="center">A final year undergraduate in Computer Science.I am an iOS Application Developer at OneBanc Technologies!</h3>
+<h3 align="center">An experienced Software Developer (iOS) currently working at Swiggy. Previously worked at GetMyParking, OneBanc</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sejalllkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="sejalllkhanna" /> </p>
 
@@ -9,11 +9,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **OneBanc App*
+- 🔭 I’m currently working on **Swiggy App*
 
 - 🌱 I’m currently learning **iOS Application Development, Product Management**
 
-- 🤝 I’m looking for help with **New Project ideas for iOS App**
+- 🤝 I’m looking for help with **Collabartive App Contributors for personal projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sejalllkhanna](https://github.com/sejalllkhanna)
 
