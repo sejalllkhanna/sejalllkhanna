@@ -1,83 +1,78 @@
-<h1 align="center">Hi 👋, I'm Sejal Khanna</h1>
-<h3 align="center">An iOS Software Engineer with a passion for building robust, scalable, and user-centric mobile applications.</h3>
+\<div align="center"\>
+\<img src="[https://user-images.githubusercontent.com/46366551/181512411-48e02d84-c8c7-43ca-a3f2-1e967406a147.gif](https://www.google.com/search?q=https://user-images.githubusercontent.com/46366551/181512411-48e02d84-c8c7-43ca-a3f2-1e967406a147.gif)" alt="iOS Development" width="400"/\>
+\</div\>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sejalllkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+\<h1 align="center"\>Hi 👋, I'm Sejal Khanna\</h1\>
+\<h3 align="center"\>Senior iOS Software Engineer | Architecting intuitive and performant mobile experiences.\</h3\>
 
----
-
-### 🚀 About Me
-
--   💻 I'm a seasoned **iOS Software Engineer** with experience across the entire mobile development lifecycle.
--   🔭 I'm currently building impactful features at **Trek Bicycle**, focusing on the Trek Ride Club app.
--   🌱 I'm continuously learning and exploring new challenges in **mobile development and product management**.
--   📫 You can reach me at **sejal167kh@gmail.com**.
--   📄 View my detailed experience on my [resume](https://drive.google.com/file/d/1PZGU_RzcKSCIm94XViXkwg5-NYf-YP4j/view?usp=sharing).
-
-<br>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+-----
 
 ### 💼 Professional Experience
 
-#### **Trek Bicycle** | Mobile Software Engineer - iOS
+#### **Trek Bicycle** | *Mobile Software Engineer - iOS*
+
 *October 2024 - Present*
--   Spearheaded the launch of the **Trek Ride Club app**, a core product with **50k+ downloads**, delivering key features like route discovery and ride tracking.
--   Led a major migration of the codebase from Objective-C/Swift to **SwiftUI + MVVM**, significantly enhancing stability and testability.
--   Integrated Firebase Remote Config and feature flags to enable A/B testing and controlled feature rollouts.
--   Enhanced performance and user experience through UX refinements based on UAT feedback, and increased XCUITest and unit test coverage.
 
-#### **Swiggy** | Software Development Engineer - iOS
+  * **Spearheaded** the launch of the **Trek Ride Club app**, a core product with **50k+ downloads**, delivering key features like real-time ride tracking and sync with platforms like Strava and Garmin.
+  * **Led a major migration** of the Objective-C/Swift codebase to a modern **SwiftUI + MVVM** architecture, significantly enhancing stability and testability.
+  * Implemented Firebase Remote Config and feature flags to enable A/B testing and controlled feature rollouts, driving data-informed decisions.
+  * **Optimized performance** and user experience through UX refinements based on UAT feedback, while also boosting XCUITest and unit test coverage.
+
+#### **Swiggy** | *Software Development Engineer - iOS*
+
 *February 2024 - October 2024*
--   Reduced the app size by **10.5MB** using On-Demand Resources, improving install rates on low-end devices.
--   Engineered the Freebie Item Widget and migrated the Milestones Widget to SwiftUI, integrating state-driven animations and caching.
--   Rebuilt the entire Search flow with a proto-driven architecture, implementing dynamic widgets, shimmer loaders, and comprehensive event tagging.
--   Led the **Instamart Web-to-Native migration**, transitioning over 75% of users to performant SwiftUI screens.
 
-#### **Get My Parking** | Software Development Engineer - iOS
+  * **Architected** a solution to reduce the app size by **10.5MB** using On-Demand Resources for Lottie and JSON assets, directly improving install rates on lower-end devices.
+  * Engineered the Freebie Item Widget and led the migration of the Milestones Widget to SwiftUI, implementing state-driven Lottie animations and caching for XP+ users.
+  * **Rebuilt the entire Search flow**, creating a proto-driven architecture with dynamic widgets, shimmer loaders, and comprehensive event tagging.
+  * **Led the Instamart Web-to-Native migration**, successfully transitioning over **75% of users** to performant SwiftUI screens.
+
+#### **Get My Parking** | *Software Development Engineer - iOS*
+
 *September 2022 - February 2024*
--   Developed a scalable, white-label parking solution used across Europe and the USA, handling global customization and event tracking.
--   Implemented an end-to-end flow for managing user sessions and integrated multiple payment gateways (EVO, Stripe, TPay).
 
----
+  * Developed a scalable, white-label parking solution deployed across Europe and the USA, handling global customization, event tracking (Clevertap, Mixpanel), and SDK integrations.
+  * Designed and implemented an end-to-end flow for managing expiring user sessions and integrated multiple payment gateways (EVO, Stripe, TPay).
 
-### 🛠️ Technical Skills
+-----
 
-| **Languages & Frameworks** | **Architecture** | **Tools & Platforms** |
-|:---------------------------|:-----------------|:----------------------|
-| Swift, SwiftUI, UIKit, CoreData, Core Location, C++, SQL | MVVM, MVC, MVP, SOLID | Xcode, Git, GitHub, Jira, Firebase, Postman |
-| Alamofire, RESTful APIs, JSON, URLSession | | Tableau, Adobe XD, CocoaPods |
+### 🛠️ Technical Expertise
 
----
+| **Languages & Frameworks** | **Architecture & Design** | **Tools & Platforms** |
+|:---------------------------|:--------------------------|:----------------------|
+| Swift, SwiftUI, UIKit, C++, SQL | MVVM, MVC, MVP, SOLID, Singleton | Xcode, Git, GitHub, Jira |
+| CoreData, Core Location, AVFoundation, CoreML | Design Patterns, Memory Management (ARC) | Firebase, Postman, Tableau, Adobe XD |
+| URLSession, RESTful APIs, JSON | Multithreading (GCD, Operation Queue) | Cocoapods, Lokalise, Fastlane |
 
-### 📝 Projects & Contributions
+-----
 
--   **Pneumonia Detection Application**: Developed an app to detect pneumonia from X-ray images using Core ML and Inception V3. Published a research paper on this project.
--   **Twitter Sentiment Analysis**: Built an application with SwiftUI to analyze and detect sentiments from user tweets.
--   **Open-Source Mentor**: Contributed as a mentor for programs like GirlScript Summer of Code and Script Winter of Code.
+### 📈 Metrics & Contributions
 
----
+\<p align="left"\> \<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"\>\<img src="[https://github-profile-trophy.vercel.app/?username=sejalllkhanna](https://github-profile-trophy.vercel.app/?username=sejalllkhanna)" alt="sejalllkhanna" /\>\</a\> \</p\>
+\<p\>\&nbsp;\<img align="center" src="[https://github-readme-stats.vercel.app/api?username=sejalllkhanna\&show\_icons=true\&locale=en](https://github-readme-stats.vercel.app/api?username=sejalllkhanna&show_icons=true&locale=en)" alt="sejalllkhanna" /\>\</p\>
+\<p\>\<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=sejalllkhanna](https://github-readme-streak-stats.herokuapp.com/?user=sejalllkhanna)&" alt="sejalllkhanna" /\>\</p\>
 
-### 🏅 Achievements & Community
+-----
 
--   **Lead Organizer** at the **Swift Delhi Community Chapter**, curating and hosting 17+ events.
--   **Google Hashcode**: Ranked **2347 out of 6897 teams**.
--   **SheHacks DTU Winner**: Recognized for the Most Innovative Idea Presentation and Prototype Development.
+### 📝 Projects & Leadership
 
----
+  * **Pneumonia Detection Application**: Developed a healthcare application using **CoreML** and **Inception V3** to detect pneumonia from X-ray images. Published a research paper on the methodology.
+  * **Twitter Sentiment Analysis**: Built a **SwiftUI** application to analyze and detect sentiments from user tweets, demonstrating proficiency in modern declarative UI frameworks.
+  * **Community Leadership**: Led the **Swift Delhi Community Chapter** as the Lead Organizer, curating over 17 events to foster knowledge sharing and collaboration.
+  * **Open-Source Mentorship**: Contributed as a mentor for programs like GirlScript Summer of Code and Script Winter of Code, guiding junior developers.
 
-### 🌐 Connect with Me
+-----
 
-<p align="left">
-  <a href="https://linkedin.com/in/sejallkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sejal Khanna" height="30" width="40" /></a>
-  <a href="https://medium.com/@sejallkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sejallkhanna" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sejallkhanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="sejallkhanna" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/sejal167kh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="sejal167kh" height="30" width="40" /></a>
-</p>
+### 🌐 Let's Connect
 
----
+\<p align="left"\>
+\<a href="[https://linkedin.com/in/sejallkhanna](https://www.google.com/search?q=https://linkedin.com/in/sejallkhanna)" target="blank"\>\<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)" alt="Sejal Khanna" height="30" width="40" /\>\</a\>
+\<a href="[https://medium.com/@sejallkhanna](https://medium.com/@sejallkhanna)" target="blank"\>\<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg)" alt="@sejallkhanna" height="30" width="40" /\>\</a\>
+\<a href="[https://www.leetcode.com/sejallkhanna](https://www.leetcode.com/sejallkhanna)" target="blank"\>\<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg)" alt="sejallkhanna" height="30" width="40" /\>\</a\>
+\<a href="[https://auth.geeksforgeeks.org/user/sejal167kh](https://auth.geeksforgeeks.org/user/sejal167kh)" target="blank"\>\<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg)" alt="sejal167kh" height="30" width="40" /\>\</a\>
+\<a href="[https://github.com/sejalllkhanna](https://github.com/sejalllkhanna)" target="blank"\>\<img align="center" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%403.0.1/icons/github.svg)" alt="sejalllkhanna" height="30" width="40" /\>\</a\>
+\</p\>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sejalllkhanna&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+  * **Email**: `sejal167kh@gmail.com`
+  * **Portfolio**: [https://github.com/sejalllkhanna](https://github.com/sejalllkhanna)
+  * **Resume**: [View my detailed experience](https://drive.google.com/file/d/1PZGU_RzcKSCIm94XViXkwg5-NYf-YP4j/view?usp=sharing)
