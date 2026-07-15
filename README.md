@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sejal Khanna</h1>
-<h3 align="center">An iOS Software Engineer with a passion for building robust, scalable, and user-centric mobile applications.</h3>
+<h3 align="center">A Senior Developer Advocate & iOS Software Engineer passionate about AI-driven developer experiences and building robust, scalable, user-centric mobile applications.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sejalllkhanna&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -9,9 +9,10 @@
 
 ### 🚀 About Me
 
--   💻 I'm a seasoned **iOS Software Engineer** with experience across the entire mobile development lifecycle.
--   🔭 I'm currently building impactful features at **Trek Bicycle**, focusing on the Trek Ride Club app.
--   🌱 I'm continuously learning and exploring new challenges in **mobile development and product management**.
+-   💻 I'm a **Senior Developer Advocate (APAC)** at **MongoDB**, working at the intersection of developer experience, AI, and production-grade engineering.
+-   📱 Previously an **iOS Software Engineer**, having shipped and scaled consumer apps with millions of downloads at Trek Bicycle, Swiggy, and Get My Parking.
+-   🌱 I'm continuously exploring **AI agent workflows, RAG architectures, and on-device ML**.
+-   🛠️ Building **inCTRL**, a self-initiated iOS habit-accountability app, in my own time.
 -   📫 You can reach me at **sejal167kh@gmail.com**.
 -   📄 View my detailed experience on my [resume](https://drive.google.com/file/d/1PZGU_RzcKSCIm94XViXkwg5-NYf-YP4j/view?usp=sharing).
 
@@ -21,24 +22,40 @@
 
 ### 💼 Professional Experience
 
-#### **Trek Bicycle** | Mobile Software Engineer - iOS
-*October 2024 - Present*
--   Spearheaded the launch of the **Trek Ride Club app**, a core product with **50k+ downloads**, delivering key features like route discovery and ride tracking.
--   Led a major migration of the codebase from Objective-C/Swift to **SwiftUI + MVVM**, significantly enhancing stability and testability.
--   Integrated Firebase Remote Config and feature flags to enable A/B testing and controlled feature rollouts.
--   Enhanced performance and user experience through UX refinements based on UAT feedback, and increased XCUITest and unit test coverage.
+#### **MongoDB** | Senior Developer Advocate (APAC)
+*March 2026 - Present*
+-   Lead technical design reviews and feasibility assessments for customers building production systems on MongoDB, evaluating architecture choices, data models, and scaling tradeoffs before launch.
+-   Drive adoption of MongoDB's AI stack — Vector Search, RAG architectures, and AI agent workflows with Voyage AI — through deep technical engagement with teams building production AI applications.
+-   Translate recurring customer pain points and field feedback into input for product and engineering roadmaps.
+-   Build developer communities and technical content designed for lasting trust and adoption across the APAC region.
+
+#### **Trek Bicycle** | Software Development Engineer II - iOS
+*October 2024 - January 2026*
+-   Scaled and launched the **Trek Ride Club app** — curated routes, live ride tracking, and challenges — now **1M+ downloads** in the US.
+-   Won **The President's Award** for exceptional contributions that year.
+-   Migrated Objective-C to **SwiftUI + MVVM**, boosting performance, maintainability, and release speed while driving ongoing tech-debt cleanup.
+-   Built real-time ride tracking and sync with **Strava, Wahoo, and Garmin** using optimized background tasks and WorkoutKit.
+-   Integrated Microsoft Clarity and Firebase Remote Config for analytics, feature flagging, and controlled rollouts.
+-   Strengthened QA and accessibility via XCUITest automation, identifiers, and a Master Orchestrator for multi-suite test runs.
+-   Shipped features like Evergreen Challenges, Preferred Retailers, and ride list sorting; managed UAT feedback and release stability.
 
 #### **Swiggy** | Software Development Engineer - iOS
 *February 2024 - October 2024*
--   Reduced the app size by **10.5MB** using On-Demand Resources, improving install rates on low-end devices.
--   Engineered the Freebie Item Widget and migrated the Milestones Widget to SwiftUI, integrating state-driven animations and caching.
--   Rebuilt the entire Search flow with a proto-driven architecture, implementing dynamic widgets, shimmer loaders, and comprehensive event tagging.
--   Led the **Instamart Web-to-Native migration**, transitioning over 75% of users to performant SwiftUI screens.
+-   Reduced app size by **10.5MB** using On-Demand Resources for Lottie/JSON assets, improving install success on low-end devices.
+-   Built the Freebie Item Widget end-to-end with analytics, promo config, and complete UI test coverage.
+-   Migrated Misfit Widgets to SwiftUI with Lottie-driven playback and caching for improved performance.
+-   Rebuilt the Search flow (Pre-search, Autosuggest, SRP) with proto-driven widgets and lightweight event handling.
+-   Led the **Instant Web-to-Native migration**, replacing webviews with performant SwiftUI screens for 75%+ of users.
+-   Reengineered Couponless Offers, enabling backend-driven unlock logic and precise success tracking.
 
 #### **Get My Parking** | Software Development Engineer - iOS
 *September 2022 - February 2024*
--   Developed a scalable, white-label parking solution used across Europe and the USA, handling global customization and event tracking.
--   Implemented an end-to-end flow for managing user sessions and integrated multiple payment gateways (EVO, Stripe, TPay).
+-   Developed and maintained a white-label smart parking platform used across Europe and the US.
+-   Integrated payment gateways (EVO, Stripe, TPay) and automated session/permit card management flows for corporate onboarding.
+
+#### **OneBanc** | iOS Development Intern
+*August 2021 - August 2022*
+-   Developed the Customer Onboarding App — **SalaryUp**. Integrated Onboarding, UPI, and BBPS payment services, working closely with product managers.
 
 ---
 
@@ -46,24 +63,33 @@
 
 | **Languages & Frameworks** | **Architecture** | **Tools & Platforms** |
 |:---------------------------|:-----------------|:----------------------|
-| Swift, SwiftUI, UIKit, CoreData, Core Location, C++, SQL | MVVM, MVC, MVP, SOLID | Xcode, Git, GitHub, Jira, Firebase, Postman |
-| Alamofire, RESTful APIs, JSON, URLSession | | Tableau, Adobe XD, CocoaPods |
+| Swift, SwiftUI, UIKit, C++, C, SQL, Data Structures & Algorithms | MVVM, MVC, MVP, SOLID, Singleton | Xcode, Git, GitHub, Jira, Firebase, Postman |
+| Alamofire, Google APIs, Cocoa, Auto Layout, RESTful APIs, CoreML, Vision Kit | | Tableau, Adobe XD, SequelPro, MS Excel, Lokalise |
 
 ---
 
 ### 📝 Projects & Contributions
 
--   **Pneumonia Detection Application**: Developed an app to detect pneumonia from X-ray images using Core ML and Inception V3. Published a research paper on this project.
--   **Twitter Sentiment Analysis**: Built an application with SwiftUI to analyze and detect sentiments from user tweets.
+-   **inCTRL — Accountability Partner & Habit-Building Companion (iOS)**: Self-initiated app preparing for App Store launch. Built with Cursor and Claude Code for faster, production-grade shipping. Correlates calendar activity, location signals, and routines to infer habit adherence and trigger corrective notifications — designed with a strong focus on privacy and on-device Apple Foundation Models.
+-   **Pneumonia Detection Application**: Built and trained a pneumonia detection model from X-ray images using Core ML and CreateML, achieving 93% accuracy. Published in IJTSRD.
 -   **Open-Source Mentor**: Contributed as a mentor for programs like GirlScript Summer of Code and Script Winter of Code.
 
 ---
 
 ### 🏅 Achievements & Community
 
--   **Lead Organizer** at the **Swift Delhi Community Chapter**, curating and hosting 17+ events.
--   **Google Hashcode**: Ranked **2347 out of 6897 teams**.
--   **SheHacks DTU Winner**: Recognized for the Most Innovative Idea Presentation and Prototype Development.
+-   **The President's Award** at Trek Bicycle for exceptional contributions.
+-   **Lead Organizer** at the **Swift Delhi Community Chapter**, curating 17+ events.
+-   **Founder**, Google Developer Students' Club on campus, in association with Google Developers (118 events).
+-   **Google Cloud Facilitator**; **Google HashCode** — Ranked 2347/6897.
+-   **SheHacks DTU Winner**: Most Innovative Idea.
+
+---
+
+### 🎓 Education
+
+**Dronacharya College of Engineering (DCE)**, Gurugram, India — *2018-2022*
+Bachelor of Technology, Computer Science & Engineering (GPA: 9.2/10.0)
 
 ---
 
